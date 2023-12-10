@@ -1,4 +1,5 @@
-from TechnicalAnalysis import *
+from ta import *
+
 import time
 
 class WilliamsIndicatorsTest(WilliamsIndicators):
